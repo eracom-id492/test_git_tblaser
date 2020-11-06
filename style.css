@@ -1,26 +1,41 @@
+*{
+  padding: 0;
+  margin: 0px;
+}
+
+body, html{
+  height: 100%;
+}
+
+
+
+img{
+  width: 100%;
+  max-width: 4096px;
+}
+
 
 section {
   display: flex;
   flex-direction: row;
 	background: beige;
-	border: 3px dotted orange;
-	margin-bottom: 2em;
+	border-bottom: 5px solid white;
 	height: 100px;
 }
 .first {
-	align-items: stretch
+	align-items: stretch;
 }
 .second {
-	align-items: flex-start
+	align-items: flex-start;
 }
 .third {
-	align-items: flex-end
+	align-items: flex-end;
 }
 .fourth {
-	align-items: center
+	align-items: center;
 }
 .fifth {
-	align-items: baseline
+	align-items: baseline;
 }
 
 .bis {
