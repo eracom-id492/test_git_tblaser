@@ -8,17 +8,24 @@ body, html{
 }
 
 
-
-img{
+.logo{
   width: 100%;
-  max-width: 4096px;
+  max-width: 60px;
+}
+
+.centrer{
+  text-align: center;
+}
+
+.bg-img{
+  width: 100%;
+  max-width: 1920px;
 }
 
 
 section {
   display: flex;
   flex-direction: row;
-	background: beige;
 	border-bottom: 5px solid white;
 	height: 100px;
 }
@@ -34,6 +41,7 @@ section {
 .fourth {
   justify-content: flex-end;
 	align-items: center;
+  margin-right: 10px;
 }
 .fifth {
 	align-items: baseline;
@@ -50,7 +58,7 @@ section {
 /* Decoration */
 * {box-sizing: border-box}
 body {
-	margin: 20px;
+	margin: 0px;
 	background: #fff;
 	font-family: "Century Gothic", helvetica, arial, sans-serif;
 	font-size: 1.2em;
