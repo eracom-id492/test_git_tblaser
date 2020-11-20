@@ -5,4 +5,4 @@ Ce repository contient un exemple de menu de navigation réalisé avec des flex 
 
 Lien Git Pages : https://eracom-id492.github.io/test_git_tblaser/
 
-SOURCE:https://codepen.io/raphaelgoetter/pen/NGvNGO
+SOURCE du template:https://codepen.io/raphaelgoetter/pen/NGvNGO
